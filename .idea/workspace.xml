@@ -2,35 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d16931ac-5c45-4ee7-86a2-6d91654a7091" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/atexit/atexit_decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atexit/atexit_multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atexit/atexit_simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/cmd_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/cmd_illustrate_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/cmd_simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/configparser_interpolation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/configparser_populate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/configparser_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/configparser_read_many.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/configparser_structure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/configparser_unicode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/interpolation.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/multi_section.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/simple.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configparser/unicode.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getpass/getpass_defaults.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getpass/getpass_prompt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getpass/getpass_stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logging/loggin_file_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readline/readline_buffer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sched/sched_basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sched/sched_cancel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sched/sched_priority.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shlex/quotes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shlex/shlex_source.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shlex/shlex_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/socket/socket_gethostname.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decimal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashlib/hashlib_algorithms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashlib/hashlib_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashlib/hashlib_md5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashlib/hashlib_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashlib/hashlib_sha1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hashlib/hashlib_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmac/hmac_sha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmac/hmac_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hmac/lorem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pylearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pylearn.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datetime_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/time/datetime_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decimal_rounding.py" beforeDir="false" afterPath="$PROJECT_DIR$/decimal/decimal_rounding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struct_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/time/struct_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_clock_sleep.py" beforeDir="false" afterPath="$PROJECT_DIR$/time/time_clock_sleep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_timezone.py" beforeDir="false" afterPath="$PROJECT_DIR$/time/time_timezone.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,15 +30,96 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pylearn$argparse_short.coverage" NAME="argparse_short Coverage Results" MODIFIED="1526761048285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pylearn$struct_time.coverage" NAME="struct_time Coverage Results" MODIFIED="1526655407750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pylearn$time_clock_sleep.coverage" NAME="time_clock_sleep Coverage Results" MODIFIED="1526655054499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pylearn$decimal_rounding.coverage" NAME="decimal_rounding Coverage Results" MODIFIED="1526657619848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pylearn$time_timezone.coverage" NAME="time_timezone Coverage Results" MODIFIED="1526656177035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pylearn$struct_time.coverage" NAME="struct_time Coverage Results" MODIFIED="1526655407750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pylearn$time_clock_sleep.coverage" NAME="time_clock_sleep Coverage Results" MODIFIED="1526655054499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pylearn$datetime_datetime.coverage" NAME="datetime_datetime Coverage Results" MODIFIED="1526657100222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="hashlib_algorithms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hashlib/hashlib_algorithms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hashlib_md5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hashlib/hashlib_md5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hashlib_sha1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hashlib/hashlib_sha1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hashlib_new.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hashlib/hashlib_new.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hashlib_update.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hashlib/hashlib_update.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hmac_simple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmac/hmac_simple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hmac_sha.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hmac/hmac_sha.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hashlib_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hashlib/hashlib_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,57 +134,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/argparse_fromfile_prefix_chars.py" />
-        <option value="$PROJECT_DIR$/argparse_fromfile_prefix_chars.txt" />
-        <option value="$PROJECT_DIR$/argparse_with_help.py" />
-        <option value="$PROJECT_DIR$/argparse_raw_description_help_formatter.py" />
-        <option value="$PROJECT_DIR$/argparse_parent_base.py" />
-        <option value="$PROJECT_DIR$/argparse_uses_parent.py" />
-        <option value="$PROJECT_DIR$/argparse_conflict_handler_resolve.py" />
-        <option value="$PROJECT_DIR$/argparse_mutually_exclusive.py" />
-        <option value="$PROJECT_DIR$/argparse_subparsers.py" />
-        <option value="$PROJECT_DIR$/argparse/argparse_type.py" />
-        <option value="$PROJECT_DIR$/argparse/argparse_chices.py" />
-        <option value="$PROJECT_DIR$/argparse/argparse_choices.py" />
-        <option value="$PROJECT_DIR$/argparse/argparse_custom_action.py" />
-        <option value="$PROJECT_DIR$/getopt/getopt_short.py" />
-        <option value="$PROJECT_DIR$/getopt/getopt_long.py" />
-        <option value="$PROJECT_DIR$/getopt/getopt_example.py" />
-        <option value="$PROJECT_DIR$/readline/readline_parse_and_bind.py" />
-        <option value="$PROJECT_DIR$/readline/myreadline.rc" />
-        <option value="$PROJECT_DIR$/readline/my_readline.rc" />
-        <option value="$PROJECT_DIR$/readline/readline_read_init_file.py" />
-        <option value="$PROJECT_DIR$/readline/readline_completer.py" />
-        <option value="$PROJECT_DIR$/readline/readline_buffer.py" />
-        <option value="$PROJECT_DIR$/getpass/getpass_defaults.py" />
-        <option value="$PROJECT_DIR$/getpass/getpass_prompt.py" />
-        <option value="$PROJECT_DIR$/getpass/getpass_stream.py" />
-        <option value="$PROJECT_DIR$/cmd/cmd_simple.py" />
-        <option value="$PROJECT_DIR$/cmd/cmd_arguments.py" />
-        <option value="$PROJECT_DIR$/cmd/cmd_illustrate_methods.py" />
-        <option value="$PROJECT_DIR$/shlex/shlex_source.py" />
-        <option value="$PROJECT_DIR$/shlex/quotes.txt" />
-        <option value="$PROJECT_DIR$/shlex/shlex_table.py" />
-        <option value="$PROJECT_DIR$/configparser/configparser_read.py" />
-        <option value="$PROJECT_DIR$/configparser/simple.ini" />
-        <option value="$PROJECT_DIR$/configparser/configparser_read_many.py" />
-        <option value="$PROJECT_DIR$/configparser/unicode.ini" />
-        <option value="$PROJECT_DIR$/configparser/configparser_unicode.py" />
-        <option value="$PROJECT_DIR$/configparser/multi_section.ini" />
-        <option value="$PROJECT_DIR$/configparser/configparser_structure.py" />
-        <option value="$PROJECT_DIR$/configparser/configparser_populate.py" />
-        <option value="$PROJECT_DIR$/configparser/interpolation.ini" />
-        <option value="$PROJECT_DIR$/configparser/: configparser_interpolation..py" />
-        <option value="$PROJECT_DIR$/configparser/: configparser_interpolation.py" />
-        <option value="$PROJECT_DIR$/configparser/configparser_interpolation.py" />
-        <option value="$PROJECT_DIR$/logging/loggin_file_example.py" />
-        <option value="$PROJECT_DIR$/atexit/atexit_simple.py" />
-        <option value="$PROJECT_DIR$/atexit/atexit_multiple.py" />
-        <option value="$PROJECT_DIR$/atexit/atexit_decorator.py" />
-        <option value="$PROJECT_DIR$/sched/sched_basic.py" />
-        <option value="$PROJECT_DIR$/sched/sched_priority.py" />
-        <option value="$PROJECT_DIR$/sched/sched_cancel.py" />
-        <option value="$PROJECT_DIR$/socket/socket_gethostname.py" />
+        <option value="$PROJECT_DIR$/time_clock_sleep.py" />
+        <option value="$PROJECT_DIR$/struct_time.py" />
+        <option value="$PROJECT_DIR$/time_timezone.py" />
+        <option value="$PROJECT_DIR$/datetime_datetime.py" />
+        <option value="$PROJECT_DIR$/decimal_rounding.py" />
+        <option value="$PROJECT_DIR$/hashlib/hashlib_algorithms.py" />
+        <option value="$PROJECT_DIR$/hashlib/hashlib_data.py" />
+        <option value="$PROJECT_DIR$/hashlib/hashlib_md5.py" />
+        <option value="$PROJECT_DIR$/hashlib/hashlib_sha1.py" />
+        <option value="$PROJECT_DIR$/hashlib/hashlib_new.py" />
+        <option value="$PROJECT_DIR$/hashlib/hashlib_update.py" />
+        <option value="$PROJECT_DIR$/hmac/hmac_simple.py" />
+        <option value="$PROJECT_DIR$/hmac/lorem.txt" />
+        <option value="$PROJECT_DIR$/hmac/hmac_sha.py" />
       </list>
     </option>
   </component>
@@ -126,13 +160,14 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="23" />
-    <option name="width" value="697" />
-    <option name="height" value="830" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="177" />
+    <option name="y" value="42" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -140,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,28 +183,193 @@
               <item name="pylearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="pylearn" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="pylearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pylearn" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value=";;= = &#9;null&#9;null&#10;==l çh: ;:okl:;;:ù`&#9;null&#9;null&#10;p)&#9;null&#9;null&#10;getpas&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="BuildoutCfg" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Lab/ft_dicom" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/argparse" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hmac" />
+      <recent name="$PROJECT_DIR$/hashlib" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/decimal" />
+      <recent name="$PROJECT_DIR$/time" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/pylearn.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_action.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_arguments.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_choices.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_conflict_handler_resolve.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_custom_action.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_fromfile_prefix_chars.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_fromfile_prefix_chars.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_long.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_mutually_exclusive.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_parent_base.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_prefix_chars.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_raw_description_help_formatter.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_short.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_subparsers.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_type.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_uses_parent.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_with_help.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_with_shlex.ini</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/argparse/argparse_with_shlex.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/atexit/atexit_decorator.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/atexit/atexit_multiple.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/atexit/atexit_simple.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cmd/cmd_arguments.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cmd/cmd_illustrate_methods.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cmd/cmd_simple.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/configparser_interpolation.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/configparser_populate.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/configparser_read.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/configparser_read_many.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/configparser_structure.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/configparser_unicode.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/interpolation.ini</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/multi_section.ini</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/simple.ini</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/configparser/unicode.ini</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/getopt/getopt_example.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/getopt/getopt_long.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/getopt/getopt_short.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/getpass/getpass_defaults.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/getpass/getpass_prompt.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/getpass/getpass_stream.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logging/loggin_file_example.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/readline/my_readline.rc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/readline/readline_buffer.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/readline/readline_completer.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/readline/readline_parse_and_bind.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/readline/readline_read_init_file.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/sched/sched_basic.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/sched/sched_cancel.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/sched/sched_priority.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/shlex/quotes.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/shlex/shlex_source.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/shlex/shlex_table.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/socket/socket_gethostname.py</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,26 +383,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.argparse_short">
-    <configuration name="argparse_short" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pylearn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/argparse/argparse_short.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.decimal_rounding">
     <configuration name="datetime_datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pylearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +397,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datetime_datetime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time/datetime_datetime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +416,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decimal_rounding.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decimal/decimal_rounding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +435,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/struct_time.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time/struct_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="time_clock_sleep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pylearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time/time_clock_sleep.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,26 +473,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_timezone.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time/time_timezone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.time_clock_sleep" />
       <item itemvalue="Python.struct_time" />
       <item itemvalue="Python.time_timezone" />
       <item itemvalue="Python.datetime_datetime" />
       <item itemvalue="Python.decimal_rounding" />
-      <item itemvalue="Python.argparse_short" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.argparse_short" />
         <item itemvalue="Python.decimal_rounding" />
         <item itemvalue="Python.datetime_datetime" />
         <item itemvalue="Python.time_timezone" />
         <item itemvalue="Python.struct_time" />
+        <item itemvalue="Python.time_clock_sleep" />
       </list>
     </recent_temporary>
   </component>
@@ -306,30 +507,22 @@
       <option name="presentableId" value="Default" />
       <updated>1526654691551</updated>
     </task>
-    <task id="LOCAL-00001" summary="argparse, getopt and readline">
-      <created>1526836057013</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1526836057013</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="23" width="697" height="830" extended-state="0" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50071734" side_tool="true" weight="0.34391534" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5410053" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928263" visible="true" weight="0.34391534" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964131" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54133636" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31223175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229167" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32900944" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -338,8 +531,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,388 +542,117 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="argparse, getopt and readline" />
-    <option name="LAST_COMMIT_MESSAGE" value="argparse, getopt and readline" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_with_shlex.py">
+    <entry file="file://$PROJECT_DIR$/time/time_clock_sleep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        <state relative-caret-position="-9">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time/struct_time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time/time_timezone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_with_shlex.ini">
+    <entry file="file://$PROJECT_DIR$/time/datetime_datetime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        <state relative-caret-position="378">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_fromfile_prefix_chars.txt">
+    <entry file="file://$PROJECT_DIR$/decimal/decimal_rounding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="450">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_fromfile_prefix_chars.py">
+    <entry file="file://$PROJECT_DIR$/time/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hashlib/hashlib_algorithms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="54">
+          <caret line="3" column="78" selection-start-line="3" selection-start-column="78" selection-end-line="3" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_with_help.py">
+    <entry file="file://$PROJECT_DIR$/hashlib/hashlib_md5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_raw_description_help_formatter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_parent_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_uses_parent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_conflict_handler_resolve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_mutually_exclusive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_subparsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_type.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_choices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="108">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/argparse/argparse_custom_action.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getopt/getopt_short.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readline/myreadline.rc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getpass/getpass_stream.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getpass/getpass_prompt.py">
+    <entry file="file://$PROJECT_DIR$/hashlib/hashlib_sha1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="36">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getpass/getpass_defaults.py">
+    <entry file="file://$PROJECT_DIR$/hashlib/hashlib_new.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readline/readline_buffer.py">
+    <entry file="file://$PROJECT_DIR$/hashlib/hashlib_update.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="82" column="41" lean-forward="true" selection-start-line="82" selection-start-column="41" selection-end-line="82" selection-end-column="41" />
+        <state relative-caret-position="298">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readline/readline_completer.py">
+    <entry file="file://$PROJECT_DIR$/hashlib/hashlib_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="36">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readline/readline_read_init_file.py">
+    <entry file="file://$PROJECT_DIR$/hmac/lorem.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="126">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readline/my_readline.rc">
+    <entry file="file://$PROJECT_DIR$/hmac/hmac_simple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readline/readline_parse_and_bind.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="234">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getopt/getopt_example.py">
+    <entry file="file://$PROJECT_DIR$/hmac/hmac_sha.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getopt/getopt_long.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shlex/quotes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="98" selection-start-column="98" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shlex/shlex_source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/cmd_illustrate_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/cmd_arguments.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmd/cmd_simple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/simple.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/configparser_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/unicode.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/configparser_unicode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/multi_section.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/configparser_structure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/configparser_populate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/interpolation.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/configparser_read_many.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shlex/shlex_table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configparser/configparser_interpolation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logging/loggin_file_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atexit/atexit_simple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atexit/atexit_multiple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sched/sched_basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sched/sched_cancel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket/socket_gethostname.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sched/sched_priority.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atexit/atexit_decorator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
